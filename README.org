@@ -1,0 +1,4 @@
+* ANSI colour tester
+
+Quick tool to help with setting colours in xterm etc. so that ANSI colour
+sequences get displayed properly.
